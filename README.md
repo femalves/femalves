@@ -1,16 +1,38 @@
-### Hi there 👋
+## Fer de Macedo
+---
 
-<!--
-**femalves/femalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![wesson-wang-y0_vFxOHayg-unsplash (1)](https://user-images.githubusercontent.com/9547354/88422380-8bbc2680-cdc0-11ea-94c2-f4992e115b25.jpg)
 
-Here are some ideas to get you started:
+Hello! I'm a Software Engineer interested in Full-Stack Web Development, Mobile Development and Machine Learning. Here you'll find some of my personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Stack:
+
+- Basics: Data-structures and Algorithms
+- Programming Languages: Python, Javascript
+- Frameworks: React, Django, Django REST
+- Database: PostgreSQL, MySQL, Firebase Firestore
+- Tools: VSCode, Git, Insomnia, Figma
+
+### Currently brushing up on:
+
+- Programming Languages: Java
+
+### Currently Learning:
+
+- Programming Languages: Typescript
+- Frameworks: Gatsby.js
+- Platforms: Node.js
+- Tools: GraphQL
+- Testing: Jest, Enzyme
+
+### Will learn soon:
+
+- Framework: React Native
+- Tools: Docker
+
+### Current personal projects include:
+
+- Personal Portfolio
+- E-commerce platform
+- Trello clone
+
