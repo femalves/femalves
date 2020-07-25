@@ -1,7 +1,7 @@
 ## Fer de Macedo
 ---
 
-![wesson-wang-y0_vFxOHayg-unsplash (1)](https://user-images.githubusercontent.com/9547354/88422380-8bbc2680-cdc0-11ea-94c2-f4992e115b25.jpg)
+![undraw_task_list_6x9d (1)](https://user-images.githubusercontent.com/9547354/88462658-7f4cd200-ce83-11ea-8c75-4cc5792d491d.png)
 
 Hello! I'm a Software Engineer interested in Full-Stack Web Development, Mobile Development and Machine Learning. Here you'll find some of my personal projects.
 
