@@ -9,7 +9,7 @@ Hello! I'm a Software Engineer interested in Full-Stack Web Development, Mobile 
 - Programming Languages: [Python](https://www.python.org/), [Javascript](https://www.javascript.com/)
 - Frameworks: [React](https://reactjs.org/), [Django](https://www.djangoproject.com/), [Django REST framework](https://www.django-rest-framework.org/)
 - Database: [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [Firebase Firestore](https://firebase.google.com/)
-- Tools: [VSCode](https://code.visualstudio.com/), Git, [Insomnia](https://insomnia.rest/), [Figma](https://www.figma.com/)
+- Tools: [VSCode](https://code.visualstudio.com/), [Git](https://www.github.com/), [Insomnia](https://insomnia.rest/), [Figma](https://www.figma.com/)
 
 ### :art: Currently brushing up on:
 
