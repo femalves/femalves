@@ -1,6 +1,6 @@
  ![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/9547354/89804627-d0f38e80-db0a-11ea-984f-7d5253142a4f.gif)
 
-Hello! I'm a Software Engineer interested in Full-Stack Web Development, Mobile Development and Machine Learning. Here you'll find some of my personal projects.
+Hello! I'm a Software Engineer interested in Full-Stack Web Development and Mobile Development. Here you'll find some of my personal projects.
 
 ### :books: Current Stack:
 
