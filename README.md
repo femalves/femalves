@@ -17,7 +17,7 @@ Hello! I'm a Software Engineer interested in Full-Stack Web Development and Mobi
 ### :dart: Currently Learning:
 
 - Programming Languages: [Typescript](https://www.typescriptlang.org/)
-- Frameworks: [Gatsby.js](https://www.gatsbyjs.org/)
+- Frameworks: [Gatsby.js](https://www.gatsbyjs.org/) :white_check_mark:
 - Platforms: [Node.js](https://nodejs.org/en/)
 - Tools: [GraphQL](https://graphql.org/)
 - Testing: [Jest](https://jestjs.io/), [Enzyme](https://enzymejs.github.io/enzyme/)
@@ -29,7 +29,7 @@ Hello! I'm a Software Engineer interested in Full-Stack Web Development and Mobi
 
 ### Current personal projects include:
 
-- Personal Portfolio
+- Personal Portfolio :white_check_mark:
 - E-commerce platform
 - Trello clone
 
