@@ -1,6 +1,5 @@
  ![GithubHero](https://user-images.githubusercontent.com/9547354/91645422-4d4b0480-ea1b-11ea-9070-b7c8b162f5a4.png)
-
-Hello! I'm a Software Engineer interested in Full-Stack Web Development and Mobile Development. Here you'll find some of my personal projects.
+## I'm a Software Engineer interested in Full-Stack Web Development and Mobile Development. Here you'll find some of my personal projects.
 Check out my [portfolio](https://codebyfernanda.tech). 
 
 ### :books: Current Stack:
