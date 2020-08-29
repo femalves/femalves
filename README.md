@@ -24,7 +24,7 @@ Hello! I'm a Software Engineer interested in Full-Stack Web Development and Mobi
 
 ### :hearts: Interested in:
 
-- Framework: [React Native](https://reactnative.dev/)
+- Framework: [React Native](https://reactnative.dev/), [Electron] (https://www.electronjs.org/)
 - Tools: [Docker](https://www.docker.com/)
 
 ### Current personal projects include:
