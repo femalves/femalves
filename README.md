@@ -25,7 +25,7 @@ Check out my [portfolio](https://codebyfernanda.tech).
 ### :hearts: Interested in:
 
 - Framework: [React Native](https://reactnative.dev/), [Electron](https://www.electronjs.org/)
-- Tools: [Docker](https://www.docker.com/)
+- Tools: [Docker](https://www.docker.com/), [AWS](https://aws.amazon.com/)
 
 ### Current personal projects include:
 
