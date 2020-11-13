@@ -16,7 +16,6 @@ Check out my [portfolio](https://codebyfernanda.tech).
 
 ### :dart: Currently Learning:
 
-- Programming Languages: [Typescript](https://www.typescriptlang.org/)
 - Frameworks: [Gatsby.js](https://www.gatsbyjs.org/) :white_check_mark:
 - Platforms: [Node.js](https://nodejs.org/en/)
 - Tools: [GraphQL](https://graphql.org/)
